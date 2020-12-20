@@ -14,7 +14,7 @@
 ## Speech Recognition
 * WaveNet : https://arxiv.org/pdf/1609.03499.pdf
 * Tacotron : https://arxiv.org/pdf/1703.10135v2.pdf
-
+* WaveGlow : https://arxiv.org/pdf/1811.00002v1.pdf
 
 ## Recommender Systems
 
