@@ -8,11 +8,13 @@
 * Link : https://paperswithcode.com/
 
 ## Algorithm
-* WaveNet : https://arxiv.org/pdf/1609.03499.pdf
-*
+
 ## Papers
 
 ## Speech Recognition
+* WaveNet : https://arxiv.org/pdf/1609.03499.pdf
+* Tacogtron : https://arxiv.org/pdf/1703.10135v2.pdf
+
 
 ## Recommender Systems
 
