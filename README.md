@@ -13,7 +13,7 @@
 
 ## Speech Recognition
 * WaveNet : https://arxiv.org/pdf/1609.03499.pdf
-* Tacogtron : https://arxiv.org/pdf/1703.10135v2.pdf
+* Tacotron : https://arxiv.org/pdf/1703.10135v2.pdf
 
 
 ## Recommender Systems
