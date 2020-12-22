@@ -1,5 +1,5 @@
 # TIL
-오늘 하루동안 새롭게 알게되었거나 혹은 시도했던 것들을 정리
+오늘 하루동안 새롭게 알게되었거나 혹은 시도했던 것들을 정리📚
 
 ## Markdown 작성법
 * Link : https://gist.github.com/ihoneymon/652be052a0727ad59601
