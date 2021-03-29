@@ -6,6 +6,7 @@
 
 ## 논문
 * Link : https://paperswithcode.com/
+* MS에서 EndNote 작성법 : https://www.youtube.com/watch?v=m2RP-vDQ6eY&ab_channel=%EC%86%94%ED%8A%B8%26%ED%8E%98%ED%8D%BC
 
 ## Algorithm
 
