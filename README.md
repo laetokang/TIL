@@ -21,3 +21,5 @@
 ## Recommender Systems
 
 ## NLP
+## Multiprocessing
+* Link : https://john-analyst.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-multiprocessing-tqdm-%ED%99%9C%EC%9A%A9-a4bc02b8790c
