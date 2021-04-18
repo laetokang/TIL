@@ -12,6 +12,9 @@
 
 ## Papers
 
+# Speech
+## Speech Verification 
+* TDNN-LSTM : https://ieeexplore.ieee.org/document/8683185
 ## Speech Recognition
 * WaveNet : https://arxiv.org/pdf/1609.03499.pdf
 * Tacotron : https://arxiv.org/pdf/1703.10135v2.pdf
