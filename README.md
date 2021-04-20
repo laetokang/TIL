@@ -3,7 +3,7 @@
 
 ## Markdown 작성법
 * Link : https://gist.github.com/ihoneymon/652be052a0727ad59601
-
+* Link2 : https://post.naver.com/viewer/postView.nhn?volumeNo=24627214&memberNo=42458017
 ## 논문
 * Link : https://paperswithcode.com/
 * MS에서 EndNote 작성법 : https://www.youtube.com/watch?v=m2RP-vDQ6eY&ab_channel=%EC%86%94%ED%8A%B8%26%ED%8E%98%ED%8D%BC
